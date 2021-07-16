@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Capko_Word_Occurrence_Pack"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Capko_Word_Occurrence_Pack","l":"WordCounter"}];updateSearchResults();
